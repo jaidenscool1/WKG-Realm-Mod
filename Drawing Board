@@ -1,0 +1,39 @@
+Drawing Board
+
+
+- Durability per use of joint(4)/bong(6)/blunt(8)
+- Add tobacco leaf for blunts (Up to 8 Strains)
+- Add tobacco plant
+- Only certain seeds can be obtained by crossbreeding more common strains
+- 10 more strains
+  1. Purple Punch (Night Vision I + Saturation II)
+  2. Tysgorilla (Strength I)
+  3. Tender Lad (Absortion I)
+  4. White Widow (Jump Boost I + Swiftness I)
+  5. George Droid (Water Breathing I + Resistance I)
+  5. Skywalker OG (levitation 3sec + Fire Resistance I)
+  6.
+- Change the rolling table to a real table texture not a block
+- Have the ability to put desired strains in a bong with 6 use durability
+- Add Drying Rack as a functional block
+  1. Place up to 16 Nugs in the interface and wait 2 real time minutes for the nugs to complete (a completion bar on the UI would be beneficial)
+  2. Add New value to all Nugs specificly in the description Wet or Dried
+  3. If nug is freshly harvested it will be wet until put in drying rack
+  4. Dried Nugs last 30% longer and have a larger yield in the Distiller
+  5. Crafting recipe for Drying Rack is 3 string 3 fences and 2 logs of any type
+- Custom animations for bong and joint.
+- Ability to press weed with a nug press
+  1. Upgradable pressing plate (Copper < iron < Diamond < Netherite)
+  2. Obtain rosin from nugpress ( Yield is increased with type of presser used.)
+  3. 2 Part assembily for the nugpress (should be able to Shift left click on the Base nugpress to change the Pressing Plate being used)
+- Ability to distill rosin into Distilate, Live resin, Shatter and Wax
+  1. The differnt types of distilling proccess requires different fuel for the distiller the more concentrated the longer it takes.
+  2. Ability to add Distilate and live resin in a cartridge(Stackable up to 16) 
+  3. Add new Item Vape Cartridge(16 Durability, Doesnt break when durablity runs out, instead breaks the cart attached and leaves you with an empty pen)
+    3A.  Add up to 3 strains to a cartridge 
+    3B. Crafting recipe for Empty Cartridge is 1 glass, 1 quartz and 1 iron per cartridge
+    4B. Crafting recipe for Vape Battery is 1 blaze rod 1, 1 netherite scrap and 1 copper ingot
+- New villager proffession the Funguy
+  1. Trades any shatter for 2 emeralds 
+  2. Only way to get some strains is through trading
+  3. Drying rack and Base Nugpress for trade
